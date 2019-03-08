@@ -7,7 +7,7 @@ Technologies:
 ### Run project
 ```
 git clone https://github.com/duongagangiang/flask-webpack4-react-redux.git    
-cd flask-webpack4-react-redux/flask-blog/client
+cd flask-webpack4-react-redux/client
 ```
 ### Execute commandline
 ###### Install all package in package.json
