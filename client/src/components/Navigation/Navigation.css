@@ -1,0 +1,8 @@
+#currentUser {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+#currentUser i {
+    font-size: 30px;
+}
